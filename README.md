@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subhajit Mallick</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate android developer</h3>
+<img align="right" alt="Coding" width="400" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif">
+
+
+- 🔭 I’m currently working on **Android Apps**
+
+- 👯 I have been contributing at [Oppia-android](https://github.com/oppia/oppia-android)
 
 - 🌱 I’m currently learning **Jetpack compose, Dragger, Bazel**
 
